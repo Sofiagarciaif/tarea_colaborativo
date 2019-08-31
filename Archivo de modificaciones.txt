@@ -1,2 +1,8 @@
-"Este archivo será utilizado para emular modificaciones en el proyecto colaborativo.
+﻿"Este archivo será utilizado para emular modificaciones en el proyecto colaborativo.
 Sofía García Mora."
+
+Alberto Enrique Nuño Guevara
+
+Repositorios : 
+https://github.com/Sofiagarciaif/tarea_colaborativo
+https://github.com/AlbertoNuno/tarea_colaborativo-1
